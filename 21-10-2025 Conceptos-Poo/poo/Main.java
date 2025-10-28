@@ -127,27 +127,27 @@ public class Main {
         puerta5.abrir();
         puerta5.cerrar();
 
-        Ventana ventana1 = new Ventana("tipo1", "tamanio1", "material1");
+        Ventana ventana1 = new Ventana("tipo1", "tamaño1", "material1");
         ventana1.mostrarInfo();
         ventana1.abrir();
         ventana1.cerrar();
 
-        Ventana ventana2 = new Ventana("tipo2", "tamanio2", "material2");
+        Ventana ventana2 = new Ventana("tipo2", "tamaño2", "material2");
         ventana2.mostrarInfo();
         ventana2.abrir();
         ventana2.cerrar();
 
-        Ventana ventana3 = new Ventana("tipo3", "tamanio3", "material3");
+        Ventana ventana3 = new Ventana("tipo3", "tamaño3", "material3");
         ventana3.mostrarInfo();
         ventana3.abrir();
         ventana3.cerrar();
 
-        Ventana ventana4 = new Ventana("tipo4", "tamanio4", "material4");
+        Ventana ventana4 = new Ventana("tipo4", "tamaño4", "material4");
         ventana4.mostrarInfo();
         ventana4.abrir();
         ventana4.cerrar();
 
-        Ventana ventana5 = new Ventana("tipo5", "tamanio5", "material5");
+        Ventana ventana5 = new Ventana("tipo5", "tamaño5", "material5");
         ventana5.mostrarInfo();
         ventana5.abrir();
         ventana5.cerrar();
@@ -217,37 +217,37 @@ public class Main {
         aire3.encender();
         aire3.apagar();
 
-        Aire aire4 = new Aire(4, "marca4", "tamanio4");
+        Aire aire4 = new Aire(4, "marca4", "tamaño4");
         aire4.mostrarInfo();
         aire4.encender();
         aire4.apagar();
 
-        Aire aire5 = new Aire(5, "marca5", "tamanio5");
+        Aire aire5 = new Aire(5, "marca5", "tamaño5");
         aire5.mostrarInfo();
         aire5.encender();
         aire5.apagar();
 
-        Cuaderno cuaderno1 = new Cuaderno("color1", 1, "tamano1");
+        Cuaderno cuaderno1 = new Cuaderno("color1", 1, "tamaño1");
         cuaderno1.mostrarInfo();
         cuaderno1.organizarInformacion();
         cuaderno1.planificar();
 
-        Cuaderno cuaderno2 = new Cuaderno("color2", 2, "tamano2");
+        Cuaderno cuaderno2 = new Cuaderno("color2", 2, "tamaño2");
         cuaderno2.mostrarInfo();
         cuaderno2.organizarInformacion();
         cuaderno2.planificar();
 
-        Cuaderno cuaderno3 = new Cuaderno("color3", 3, "tamano3");
+        Cuaderno cuaderno3 = new Cuaderno("color3", 3, "tamaño3");
         cuaderno3.mostrarInfo();
         cuaderno3.organizarInformacion();
         cuaderno3.planificar();
 
-        Cuaderno cuaderno4 = new Cuaderno("color4", 4, "tamano4");
+        Cuaderno cuaderno4 = new Cuaderno("color4", 4, "tamaño4");
         cuaderno4.mostrarInfo();
         cuaderno4.organizarInformacion();
         cuaderno4.planificar();
 
-        Cuaderno cuaderno5 = new Cuaderno("color5", 5, "tamano5");
+        Cuaderno cuaderno5 = new Cuaderno("color5", 5, "tamaño5");
         cuaderno5.mostrarInfo();
         cuaderno5.organizarInformacion();
         cuaderno5.planificar();
@@ -402,27 +402,27 @@ public class Main {
         pared5.pintar();
         pared5.medir();
 
-        Basurero basurero1 = new Basurero("color1", "tamanio1", true);
+        Basurero basurero1 = new Basurero("color1", "tamaño1", true);
         basurero1.mostrarInfo();
         basurero1.llenar();
         basurero1.vaciar();
 
-        Basurero basurero2 = new Basurero("color2", "tamanio2", false);
+        Basurero basurero2 = new Basurero("color2", "tamaño2", false);
         basurero2.mostrarInfo();
         basurero2.llenar();
         basurero2.vaciar();
 
-        Basurero basurero3 = new Basurero("color3", "tamanio3", true);
+        Basurero basurero3 = new Basurero("color3", "tamaño3", true);
         basurero3.mostrarInfo();
         basurero3.llenar();
         basurero3.vaciar();
 
-        Basurero basurero4 = new Basurero("color4", "tamanio4", false);
+        Basurero basurero4 = new Basurero("color4", "tamaño4", false);
         basurero4.mostrarInfo();
         basurero4.llenar();
         basurero4.vaciar();
 
-        Basurero basurero5 = new Basurero("color5", "tamanio5", true);
+        Basurero basurero5 = new Basurero("color5", "tamaño5", true);
         basurero5.mostrarInfo();
         basurero5.llenar();
         basurero5.vaciar();
@@ -502,27 +502,27 @@ public class Main {
         mouse5.mover();
         mouse5.conectar();
 
-        Teclado teclado1 = new Teclado("marca1", "tamanio1", 1);
+        Teclado teclado1 = new Teclado("marca1", "tamaño1", 1);
         teclado1.mostrarInfo();
         teclado1.escribir();
         teclado1.conectar();
 
-        Teclado teclado2 = new Teclado("marca2", "tamanio2", 2);
+        Teclado teclado2 = new Teclado("marca2", "tamaño2", 2);
         teclado2.mostrarInfo();
         teclado2.escribir();
         teclado2.conectar();
 
-        Teclado teclado3 = new Teclado("marca3", "tamanio3", 3);
+        Teclado teclado3 = new Teclado("marca3", "tamaño3", 3);
         teclado3.mostrarInfo();
         teclado3.escribir();
         teclado3.conectar();
 
-        Teclado teclado4 = new Teclado("marca4", "tamanio4", 4);
+        Teclado teclado4 = new Teclado("marca4", "tamaño4", 4);
         teclado4.mostrarInfo();
         teclado4.escribir();
         teclado4.conectar();
 
-        Teclado teclado5 = new Teclado("marca5", "tamanio5", 5);
+        Teclado teclado5 = new Teclado("marca5", "tamaño5", 5);
         teclado5.mostrarInfo();
         teclado5.escribir();
         teclado5.conectar();
